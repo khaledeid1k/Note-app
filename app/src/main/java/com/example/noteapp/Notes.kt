@@ -17,5 +17,6 @@ class Notes {
     this.body=body
     this.timestamp=timestamp
     }
+//
 
 }
